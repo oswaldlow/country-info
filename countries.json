@@ -1,0 +1,2243 @@
+[
+        {
+            "name": "Afghanistan",
+            "alpha2": "AF",
+            "alpha3": "AFG",
+            "numeric": "004",
+            "iso_code": "ISO 3166-2:AF",
+            "independent": true,
+            "chinese_name": "阿富汗"
+        },
+        {
+            "name": "Åland Islands",
+            "alpha2": "AX",
+            "alpha3": "ALA",
+            "numeric": "248",
+            "iso_code": "ISO 3166-2:AX",
+            "independent": false,
+            "chinese_name": "奥兰群岛"
+        },
+        {
+            "name": "Albania",
+            "alpha2": "AL",
+            "alpha3": "ALB",
+            "numeric": "008",
+            "iso_code": "ISO 3166-2:AL",
+            "independent": true,
+            "chinese_name": "阿尔巴尼亚"
+        },
+        {
+            "name": "Algeria",
+            "alpha2": "DZ",
+            "alpha3": "DZA",
+            "numeric": "012",
+            "iso_code": "ISO 3166-2:DZ",
+            "independent": true,
+            "chinese_name": "阿尔及利亚"
+        },
+        {
+            "name": "American Samoa",
+            "alpha2": "AS",
+            "alpha3": "ASM",
+            "numeric": "016",
+            "iso_code": "ISO 3166-2:AS",
+            "independent": false,
+            "chinese_name": "美属萨摩亚"
+        },
+        {
+            "name": "Andorra",
+            "alpha2": "AD",
+            "alpha3": "AND",
+            "numeric": "020",
+            "iso_code": "ISO 3166-2:AD",
+            "independent": true,
+            "chinese_name": "安道尔"
+        },
+        {
+            "name": "Angola",
+            "alpha2": "AO",
+            "alpha3": "AGO",
+            "numeric": "024",
+            "iso_code": "ISO 3166-2:AO",
+            "independent": true,
+            "chinese_name": "安哥拉"
+        },
+        {
+            "name": "Anguilla",
+            "alpha2": "AI",
+            "alpha3": "AIA",
+            "numeric": "660",
+            "iso_code": "ISO 3166-2:AI",
+            "independent": false,
+            "chinese_name": "安圭拉"
+        },
+    {
+        "name": "Antarctica",
+        "alpha2": "AQ",
+        "alpha3": "ATA",
+        "numeric": "010",
+        "iso_code": "ISO 3166-2:AQ",
+        "independent": false,
+        "chinese_name": "南极洲"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "alpha2": "AG",
+        "alpha3": "ATG",
+        "numeric": "028",
+        "iso_code": "ISO 3166-2:AG",
+        "independent": true,
+        "chinese_name": "安提瓜和巴布达"
+    },
+    {
+        "name": "Argentina",
+        "alpha2": "AR",
+        "alpha3": "ARG",
+        "numeric": "032",
+        "iso_code": "ISO 3166-2:AR",
+        "independent": true,
+        "chinese_name": "阿根廷"
+    },
+    {
+        "name": "Armenia",
+        "alpha2": "AM",
+        "alpha3": "ARM",
+        "numeric": "051",
+        "iso_code": "ISO 3166-2:AM",
+        "independent": true,
+        "chinese_name": "亚美尼亚"
+    },
+    {
+        "name": "Aruba",
+        "alpha2": "AW",
+        "alpha3": "ABW",
+        "numeric": "533",
+        "iso_code": "ISO 3166-2:AW",
+        "independent": false,
+        "chinese_name": "阿鲁巴"
+    },
+    {
+        "name": "Australia",
+        "alpha2": "AU",
+        "alpha3": "AUS",
+        "numeric": "036",
+        "iso_code": "ISO 3166-2:AU",
+        "independent": true,
+        "chinese_name": "澳大利亚"
+    },
+    {
+        "name": "Austria",
+        "alpha2": "AT",
+        "alpha3": "AUT",
+        "numeric": "040",
+        "iso_code": "ISO 3166-2:AT",
+        "independent": true,
+        "chinese_name": "奥地利"
+    },
+    {
+        "name": "Azerbaijan",
+        "alpha2": "AZ",
+        "alpha3": "AZE",
+        "numeric": "031",
+        "iso_code": "ISO 3166-2:AZ",
+        "independent": true,
+        "chinese_name": "阿塞拜疆"
+    },
+    {
+        "name": "Bahamas",
+        "alpha2": "BS",
+        "alpha3": "BHS",
+        "numeric": "044",
+        "iso_code": "ISO 3166-2:BS",
+        "independent": true,
+        "chinese_name": "巴哈马"
+    },
+    {
+        "name": "Bahrain",
+        "alpha2": "BH",
+        "alpha3": "BHR",
+        "numeric": "048",
+        "iso_code": "ISO 3166-2:BH",
+        "independent": true,
+        "chinese_name": "巴林"
+    },
+    {
+        "name": "Bangladesh",
+        "alpha2": "BD",
+        "alpha3": "BGD",
+        "numeric": "050",
+        "iso_code": "ISO 3166-2:BD",
+        "independent": true,
+        "chinese_name": "孟加拉国"
+    },
+    {
+        "name": "Barbados",
+        "alpha2": "BB",
+        "alpha3": "BRB",
+        "numeric": "052",
+        "iso_code": "ISO 3166-2:BB",
+        "independent": true,
+        "chinese_name": "巴巴多斯"
+    },
+    {
+        "name": "Belarus",
+        "alpha2": "BY",
+        "alpha3": "BLR",
+        "numeric": "112",
+        "iso_code": "ISO 3166-2:BY",
+        "independent": true,
+        "chinese_name": "白俄罗斯"
+    },
+    {
+        "name": "Belgium",
+        "alpha2": "BE",
+        "alpha3": "BEL",
+        "numeric": "056",
+        "iso_code": "ISO 3166-2:BE",
+        "independent": true,
+        "chinese_name": "比利时"
+    },
+    {
+        "name": "Belize",
+        "alpha2": "BZ",
+        "alpha3": "BLZ",
+        "numeric": "084",
+        "iso_code": "ISO 3166-2:BZ",
+        "independent": true,
+        "chinese_name": "伯利兹"
+    },
+    {
+        "name": "Benin",
+        "alpha2": "BJ",
+        "alpha3": "BEN",
+        "numeric": "204",
+        "iso_code": "ISO 3166-2:BJ",
+        "independent": true,
+        "chinese_name": "贝宁"
+    },
+    {
+        "name": "Bermuda",
+        "alpha2": "BM",
+        "alpha3": "BMU",
+        "numeric": "060",
+        "iso_code": "ISO 3166-2:BM",
+        "independent": false,
+        "chinese_name": "百慕大"
+    },
+    {
+        "name": "Bhutan",
+        "alpha2": "BT",
+        "alpha3": "BTN",
+        "numeric": "064",
+        "iso_code": "ISO 3166-2:BT",
+        "independent": true,
+        "chinese_name": "不丹"
+    },
+    {
+        "name": "Bolivia, Plurinational State of",
+        "alpha2": "BO",
+        "alpha3": "BOL",
+        "numeric": "068",
+        "iso_code": "ISO 3166-2:BO",
+        "independent": true,
+        "chinese_name": "玻利维亚"
+    },
+    {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "alpha2": "BQ",
+        "alpha3": "BES",
+        "numeric": "535",
+        "iso_code": "ISO 3166-2:BQ",
+        "independent": false,
+        "chinese_name": "博奈尔、圣尤斯特歇斯和萨巴"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "alpha2": "BA",
+        "alpha3": "BIH",
+        "numeric": "070",
+        "iso_code": "ISO 3166-2:BA",
+        "independent": true,
+        "chinese_name": "波斯尼亚和黑塞哥维那"
+    },
+    {
+        "name": "Botswana",
+        "alpha2": "BW",
+        "alpha3": "BWA",
+        "numeric": "072",
+        "iso_code": "ISO 3166-2:BW",
+        "independent": true,
+        "chinese_name": "博茨瓦纳"
+    },
+    {
+        "name": "Bouvet Island",
+        "alpha2": "BV",
+        "alpha3": "BVT",
+        "numeric": "074",
+        "iso_code": "ISO 3166-2:BV",
+        "independent": false,
+        "chinese_name": "布韦岛"
+    },
+    {
+        "name": "Brazil",
+        "alpha2": "BR",
+        "alpha3": "BRA",
+        "numeric": "076",
+        "iso_code": "ISO 3166-2:BR",
+        "independent": true,
+        "chinese_name": "巴西"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "alpha2": "IO",
+        "alpha3": "IOT",
+        "numeric": "086",
+        "iso_code": "ISO 3166-2:IO",
+        "independent": false,
+        "chinese_name": "英属印度洋领地"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "alpha2": "BN",
+        "alpha3": "BRN",
+        "numeric": "096",
+        "iso_code": "ISO 3166-2:BN",
+        "independent": true,
+        "chinese_name": "文莱"
+    },
+    {
+        "name": "Bulgaria",
+        "alpha2": "BG",
+        "alpha3": "BGR",
+        "numeric": "100",
+        "iso_code": "ISO 3166-2:BG",
+        "independent": true,
+        "chinese_name": "保加利亚"
+    },
+    {
+        "name": "Burkina Faso",
+        "alpha2": "BF",
+        "alpha3": "BFA",
+        "numeric": "854",
+        "iso_code": "ISO 3166-2:BF",
+        "independent": true,
+        "chinese_name": "布基纳法索"
+    },
+    {
+        "name": "Burundi",
+        "alpha2": "BI",
+        "alpha3": "BDI",
+        "numeric": "108",
+        "iso_code": "ISO 3166-2:BI",
+        "independent": true,
+        "chinese_name": "布隆迪"
+    },
+    {
+        "name": "Cabo Verde",
+        "alpha2": "CV",
+        "alpha3": "CPV",
+        "numeric": "132",
+        "iso_code": "ISO 3166-2:CV",
+        "independent": true,
+        "chinese_name": "佛得角"
+    },
+    {
+        "name": "Cambodia",
+        "alpha2": "KH",
+        "alpha3": "KHM",
+        "numeric": "116",
+        "iso_code": "ISO 3166-2:KH",
+        "independent": true,
+        "chinese_name": "柬埔寨"
+    },
+    {
+        "name": "Cameroon",
+        "alpha2": "CM",
+        "alpha3": "CMR",
+        "numeric": "120",
+        "iso_code": "ISO 3166-2:CM",
+        "independent": true,
+        "chinese_name": "喀麦隆"
+    },
+    {
+        "name": "Canada",
+        "alpha2": "CA",
+        "alpha3": "CAN",
+        "numeric": "124",
+        "iso_code": "ISO 3166-2:CA",
+        "independent": true,
+        "chinese_name": "加拿大"
+    },
+    {
+        "name": "Cayman Islands",
+        "alpha2": "KY",
+        "alpha3": "CYM",
+        "numeric": "136",
+        "iso_code": "ISO 3166-2:KY",
+        "independent": false,
+        "chinese_name": "开曼群岛"
+    },
+    {
+        "name": "Central African Republic",
+        "alpha2": "CF",
+        "alpha3": "CAF",
+        "numeric": "140",
+        "iso_code": "ISO 3166-2:CF",
+        "independent": true,
+        "chinese_name": "中非共和国"
+    },
+    {
+        "name": "Chad",
+        "alpha2": "TD",
+        "alpha3": "TCD",
+        "numeric": "148",
+        "iso_code": "ISO 3166-2:TD",
+        "independent": true,
+        "chinese_name": "乍得"
+    },
+    {
+        "name": "Chile",
+        "alpha2": "CL",
+        "alpha3": "CHL",
+        "numeric": "152",
+        "iso_code": "ISO 3166-2:CL",
+        "independent": true,
+        "chinese_name": "智利"
+    },
+    {
+        "name": "China",
+        "alpha2": "CN",
+        "alpha3": "CHN",
+        "numeric": "156",
+        "iso_code": "ISO 3166-2:CN",
+        "independent": true,
+        "chinese_name": "中国"
+    },
+    {
+        "name": "Christmas Island",
+        "alpha2": "CX",
+        "alpha3": "CXR",
+        "numeric": "162",
+        "iso_code": "ISO 3166-2:CX",
+        "independent": false,
+        "chinese_name": "圣诞岛"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "alpha2": "CC",
+        "alpha3": "CCK",
+        "numeric": "166",
+        "iso_code": "ISO 3166-2:CC",
+        "independent": false,
+        "chinese_name": "科科斯（基林）群岛"
+    },
+    {
+        "name": "Colombia",
+        "alpha2": "CO",
+        "alpha3": "COL",
+        "numeric": "170",
+        "iso_code": "ISO 3166-2:CO",
+        "independent": true,
+        "chinese_name": "哥伦比亚"
+    },
+    {
+        "name": "Comoros",
+        "alpha2": "KM",
+        "alpha3": "COM",
+        "numeric": "174",
+        "iso_code": "ISO 3166-2:KM",
+        "independent": true,
+        "chinese_name": "科摩罗"
+    },
+    {
+        "name": "Congo",
+        "alpha2": "CG",
+        "alpha3": "COG",
+        "numeric": "178",
+        "iso_code": "ISO 3166-2:CG",
+        "independent": true,
+        "chinese_name": "刚果（布）"
+    },
+    {
+        "name": "Congo, Democratic Republic of the",
+        "alpha2": "CD",
+        "alpha3": "COD",
+        "numeric": "180",
+        "iso_code": "ISO 3166-2:CD",
+        "independent": true,
+        "chinese_name": "刚果民主共和国"
+    },
+    {
+        "name": "Cook Islands",
+        "alpha2": "CK",
+        "alpha3": "COK",
+        "numeric": "184",
+        "iso_code": "ISO 3166-2:CK",
+        "independent": false,
+        "chinese_name": "库克群岛"
+    },
+    {
+        "name": "Costa Rica",
+        "alpha2": "CR",
+        "alpha3": "CRI",
+            "numeric": "188",
+            "iso_code": "ISO 3166-2:CR",
+            "independent": true,
+            "chinese_name": "哥斯达黎加"
+    },
+    {
+        "name": "Côte d'Ivoire",
+        "alpha2": "CI",
+        "alpha3": "CIV",
+        "numeric": "384",
+        "iso_code": "ISO 3166-2:CI",
+        "independent": true,
+        "chinese_name": "科特迪瓦"
+    },
+    {
+        "name": "Croatia",
+        "alpha2": "HR",
+        "alpha3": "HRV",
+        "numeric": "191",
+        "iso_code": "ISO 3166-2:HR",
+        "independent": true,
+        "chinese_name": "克罗地亚"
+    },
+    {
+        "name": "Cuba",
+        "alpha2": "CU",
+        "alpha3": "CUB",
+        "numeric": "192",
+        "iso_code": "ISO 3166-2:CU",
+        "independent": true,
+        "chinese_name": "古巴"
+    },
+    {
+        "name": "Curaçao",
+        "alpha2": "CW",
+        "alpha3": "CUW",
+        "numeric": "531",
+        "iso_code": "ISO 3166-2:CW",
+        "independent": false,
+        "chinese_name": "库拉索"
+    },
+    {
+        "name": "Cyprus",
+        "alpha2": "CY",
+        "alpha3": "CYP",
+        "numeric": "196",
+        "iso_code": "ISO 3166-2:CY",
+        "independent": true,
+        "chinese_name": "塞浦路斯"
+    },
+    {
+        "name": "Czechia",
+        "alpha2": "CZ",
+        "alpha3": "CZE",
+        "numeric": "203",
+        "iso_code": "ISO 3166-2:CZ",
+        "independent": true,
+        "chinese_name": "捷克"
+    },
+    {
+        "name": "Denmark",
+        "alpha2": "DK",
+        "alpha3": "DNK",
+        "numeric": "208",
+        "iso_code": "ISO 3166-2:DK",
+        "independent": true,
+        "chinese_name": "丹麦"
+    },
+    {
+        "name": "Djibouti",
+        "alpha2": "DJ",
+        "alpha3": "DJI",
+        "numeric": "262",
+        "iso_code": "ISO 3166-2:DJ",
+        "independent": true,
+        "chinese_name": "吉布提"
+    },
+    {
+        "name": "Dominica",
+        "alpha2": "DM",
+        "alpha3": "DMA",
+        "numeric": "212",
+        "iso_code": "ISO 3166-2:DM",
+        "independent": true,
+        "chinese_name": "多米尼克"
+    },
+    {
+        "name": "Dominican Republic",
+        "alpha2": "DO",
+        "alpha3": "DOM",
+        "numeric": "214",
+        "iso_code": "ISO 3166-2:DO",
+        "independent": true,
+        "chinese_name": "多米尼加共和国"
+    },
+    {
+        "name": "Ecuador",
+        "alpha2": "EC",
+        "alpha3": "ECU",
+        "numeric": "218",
+        "iso_code": "ISO 3166-2:EC",
+        "independent": true,
+        "chinese_name": "厄瓜多尔"
+    },
+    {
+        "name": "Egypt",
+        "alpha2": "EG",
+        "alpha3": "EGY",
+        "numeric": "818",
+        "iso_code": "ISO 3166-2:EG",
+        "independent": true,
+        "chinese_name": "埃及"
+    },
+    {
+        "name": "El Salvador",
+        "alpha2": "SV",
+        "alpha3": "SLV",
+        "numeric": "222",
+        "iso_code": "ISO 3166-2:SV",
+        "independent": true,
+        "chinese_name": "萨尔瓦多"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "alpha2": "GQ",
+        "alpha3": "GNQ",
+        "numeric": "226",
+        "iso_code": "ISO 3166-2:GQ",
+        "independent": true,
+        "chinese_name": "赤道几内亚"
+    },
+    {
+        "name": "Eritrea",
+        "alpha2": "ER",
+        "alpha3": "ERI",
+        "numeric": "232",
+        "iso_code": "ISO 3166-2:ER",
+        "independent": true,
+        "chinese_name": "厄立特里亚"
+    },
+    {
+        "name": "Estonia",
+        "alpha2": "EE",
+        "alpha3": "EST",
+        "numeric": "233",
+        "iso_code": "ISO 3166-2:EE",
+        "independent": true,
+        "chinese_name": "爱沙尼亚"
+    },
+    {
+        "name": "Eswatini",
+        "alpha2": "SZ",
+        "alpha3": "SWZ",
+        "numeric": "748",
+        "iso_code": "ISO 3166-2:SZ",
+        "independent": true,
+        "chinese_name": "斯威士兰"
+    },
+    {
+        "name": "Ethiopia",
+        "alpha2": "ET",
+        "alpha3": "ETH",
+        "numeric": "231",
+        "iso_code": "ISO 3166-2:ET",
+        "independent": true,
+        "chinese_name": "埃塞俄比亚"
+    },    
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "alpha2": "FK",
+        "alpha3": "FLK",
+        "numeric": "238",
+        "iso_code": "ISO 3166-2:FK",
+        "independent": false,
+        "chinese_name": "福克兰群岛（马尔维纳斯）"
+    },
+    {
+        "name": "Faroe Islands",
+        "alpha2": "FO",
+        "alpha3": "FRO",
+        "numeric": "234",
+        "iso_code": "ISO 3166-2:FO",
+        "independent": false,
+        "chinese_name": "法罗群岛"
+    },
+    {
+        "name": "Fiji",
+        "alpha2": "FJ",
+        "alpha3": "FJI",
+        "numeric": "242",
+        "iso_code": "ISO 3166-2:FJ",
+        "independent": true,
+        "chinese_name": "斐济"
+    },
+    {
+        "name": "Finland",
+        "alpha2": "FI",
+        "alpha3": "FIN",
+        "numeric": "246",
+        "iso_code": "ISO 3166-2:FI",
+        "independent": true,
+        "chinese_name": "芬兰"
+    },
+    {
+        "name": "France",
+        "alpha2": "FR",
+        "alpha3": "FRA",
+        "numeric": "250",
+        "iso_code": "ISO 3166-2:FR",
+        "independent": true,
+        "chinese_name": "法国"
+    },
+    {
+        "name": "French Guiana",
+        "alpha2": "GF",
+        "alpha3": "GUF",
+        "numeric": "254",
+        "iso_code": "ISO 3166-2:GF",
+        "independent": false,
+        "chinese_name": "法属圭亚那"
+    },
+    {
+        "name": "French Polynesia",
+        "alpha2": "PF",
+        "alpha3": "PYF",
+        "numeric": "258",
+        "iso_code": "ISO 3166-2:PF",
+        "independent": false,
+        "chinese_name": "法属波利尼西亚"
+    },
+    {
+        "name": "French Southern Territories",
+        "alpha2": "TF",
+        "alpha3": "ATF",
+        "numeric": "260",
+        "iso_code": "ISO 3166-2:TF",
+        "independent": false,
+        "chinese_name": "法属南部领地"
+    },
+    {
+        "name": "Gabon",
+        "alpha2": "GA",
+        "alpha3": "GAB",
+        "numeric": "266",
+        "iso_code": "ISO 3166-2:GA",
+        "independent": true,
+        "chinese_name": "加蓬"
+    },    
+    {
+        "name": "Gambia",
+        "alpha2": "GM",
+        "alpha3": "GMB",
+        "numeric": "270",
+        "iso_code": "ISO 3166-2:GM",
+        "independent": true,
+        "chinese_name": "冈比亚"
+    },
+    {
+        "name": "Georgia",
+        "alpha2": "GE",
+        "alpha3": "GEO",
+        "numeric": "268",
+        "iso_code": "ISO 3166-2:GE",
+        "independent": true,
+        "chinese_name": "格鲁吉亚"
+    },
+    {
+        "name": "Germany",
+        "alpha2": "DE",
+        "alpha3": "DEU",
+        "numeric": "276",
+        "iso_code": "ISO 3166-2:DE",
+        "independent": true,
+        "chinese_name": "德国"
+    },
+    {
+        "name": "Ghana",
+        "alpha2": "GH",
+        "alpha3": "GHA",
+        "numeric": "288",
+        "iso_code": "ISO 3166-2:GH",
+        "independent": true,
+        "chinese_name": "加纳"
+    },
+    {
+        "name": "Gibraltar",
+        "alpha2": "GI",
+        "alpha3": "GIB",
+        "numeric": "292",
+        "iso_code": "ISO 3166-2:GI",
+        "independent": false,
+        "chinese_name": "直布罗陀"
+    },
+    {
+        "name": "Greece",
+        "alpha2": "GR",
+        "alpha3": "GRC",
+        "numeric": "300",
+        "iso_code": "ISO 3166-2:GR",
+        "independent": true,
+        "chinese_name": "希腊"
+    },
+    {
+        "name": "Greenland",
+        "alpha2": "GL",
+        "alpha3": "GRL",
+        "numeric": "304",
+        "iso_code": "ISO 3166-2:GL",
+        "independent": false,
+        "chinese_name": "格林兰"
+    },
+    {
+        "name": "Grenada",
+        "alpha2": "GD",
+        "alpha3": "GRD",
+        "numeric": "308",
+        "iso_code": "ISO 3166-2:GD",
+        "independent": true,
+        "chinese_name": "格林纳达"
+    },
+    {
+        "name": "Guadeloupe",
+        "alpha2": "GP",
+        "alpha3": "GLP",
+        "numeric": "312",
+        "iso_code": "ISO 3166-2:GP",
+        "independent": false,
+        "chinese_name": "瓜德罗普"
+    },
+    {
+        "name": "Guam",
+        "alpha2": "GU",
+        "alpha3": "GUM",
+        "numeric": "316",
+        "iso_code": "ISO 3166-2:GU",
+        "independent": false,
+        "chinese_name": "关岛"
+    },
+    {
+        "name": "Guatemala",
+        "alpha2": "GT",
+        "alpha3": "GTM",
+        "numeric": "320",
+        "iso_code": "ISO 3166-2:GT",
+        "independent": true,
+        "chinese_name": "危地马拉"
+    },
+    {
+        "name": "Guernsey",
+        "alpha2": "GG",
+        "alpha3": "GGY",
+        "numeric": "831",
+        "iso_code": "ISO 3166-2:GG",
+        "independent": false,
+        "chinese_name": "根西岛"
+    },
+    {
+        "name": "Guinea",
+        "alpha2": "GN",
+        "alpha3": "GIN",
+        "numeric": "324",
+        "iso_code": "ISO 3166-2:GN",
+        "independent": true,
+        "chinese_name": "几内亚"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "alpha2": "GW",
+        "alpha3": "GNB",
+        "numeric": "624",
+        "iso_code": "ISO 3166-2:GW",
+        "independent": true,
+        "chinese_name": "几内亚比绍"
+    },
+    {
+        "name": "Guyana",
+        "alpha2": "GY",
+        "alpha3": "GUY",
+        "numeric": "328",
+        "iso_code": "ISO 3166-2:GY",
+        "independent": true,
+        "chinese_name": "圭亚那"
+    },
+    {
+        "name": "Haiti",
+        "alpha2": "HT",
+        "alpha3": "HTI",
+        "numeric": "332",
+        "iso_code": "ISO 3166-2:HT",
+        "independent": true,
+        "chinese_name": "海地"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "alpha2": "HM",
+        "alpha3": "HMD",
+        "numeric": "334",
+        "iso_code": "ISO 3166-2:HM",
+        "independent": false,
+        "chinese_name": "赫德岛和麦克唐纳群岛"
+    },
+    {
+        "name": "Holy See",
+        "alpha2": "VA",
+        "alpha3": "VAT",
+        "numeric": "336",
+        "iso_code": "ISO 3166-2:VA",
+        "independent": true,
+        "chinese_name": "梵蒂冈"
+    },
+    {
+        "name": "Honduras",
+        "alpha2": "HN",
+        "alpha3": "HND",
+        "numeric": "340",
+        "iso_code": "ISO 3166-2:HN",
+        "independent": true,
+        "chinese_name": "洪都拉斯"
+    },
+    {
+        "name": "Hong Kong",
+        "alpha2": "HK",
+        "alpha3": "HKG",
+        "numeric": "344",
+        "iso_code": "ISO 3166-2:HK",
+        "independent": false,
+        "chinese_name": "香港"
+    },
+    {
+        "name": "Hungary",
+        "alpha2": "HU",
+        "alpha3": "HUN",
+        "numeric": "348",
+        "iso_code": "ISO 3166-2:HU",
+        "independent": true,
+        "chinese_name": "匈牙利"
+    },    
+    {
+        "name": "Iceland",
+        "alpha2": "IS",
+        "alpha3": "ISL",
+        "numeric": "352",
+        "iso_code": "ISO 3166-2:IS",
+        "independent": true,
+        "chinese_name": "冰岛"
+    },
+    {
+        "name": "India",
+        "alpha2": "IN",
+        "alpha3": "IND",
+        "numeric": "356",
+        "iso_code": "ISO 3166-2:IN",
+        "independent": true,
+        "chinese_name": "印度"
+    },
+    {
+        "name": "Indonesia",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "numeric": "360",
+        "iso_code": "ISO 3166-2:ID",
+        "independent": true,
+        "chinese_name": "印度尼西亚"
+    },
+    {
+        "name": "Iran, Islamic Republic of",
+        "alpha2": "IR",
+        "alpha3": "IRN",
+        "numeric": "364",
+        "iso_code": "ISO 3166-2:IR",
+        "independent": true,
+        "chinese_name": "伊朗"
+    },
+    {
+        "name": "Iraq",
+        "alpha2": "IQ",
+        "alpha3": "IRQ",
+        "numeric": "368",
+        "iso_code": "ISO 3166-2:IQ",
+        "independent": true,
+        "chinese_name": "伊拉克"
+    },
+    {
+        "name": "Ireland",
+        "alpha2": "IE",
+        "alpha3": "IRL",
+        "numeric": "372",
+        "iso_code": "ISO 3166-2:IE",
+        "independent": true,
+        "chinese_name": "爱尔兰"
+    },
+    {
+        "name": "Isle of Man",
+        "alpha2": "IM",
+        "alpha3": "IMN",
+        "numeric": "833",
+        "iso_code": "ISO 3166-2:IM",
+        "independent": false,
+        "chinese_name": "马恩岛"
+    },
+    {
+        "name": "Israel",
+        "alpha2": "IL",
+        "alpha3": "ISR",
+        "numeric": "376",
+        "iso_code": "ISO 3166-2:IL",
+        "independent": true,
+        "chinese_name": "以色列"
+    },
+    {
+        "name": "Italy",
+        "alpha2": "IT",
+        "alpha3": "ITA",
+        "numeric": "380",
+        "iso_code": "ISO 3166-2:IT",
+        "independent": true,
+        "chinese_name": "意大利"
+    },
+    {
+        "name": "Jamaica",
+        "alpha2": "JM",
+        "alpha3": "JAM",
+        "numeric": "388",
+        "iso_code": "ISO 3166-2:JM",
+        "independent": true,
+        "chinese_name": "牙买加"
+    },
+    {
+        "name": "Japan",
+        "alpha2": "JP",
+        "alpha3": "JPN",
+        "numeric": "392",
+        "iso_code": "ISO 3166-2:JP",
+        "independent": true,
+        "chinese_name": "日本"
+    },
+    {
+        "name": "Jersey",
+        "alpha2": "JE",
+        "alpha3": "JEY",
+        "numeric": "832",
+        "iso_code": "ISO 3166-2:JE",
+        "independent": false,
+        "chinese_name": "泽西岛"
+    },
+    {
+        "name": "Jordan",
+        "alpha2": "JO",
+        "alpha3": "JOR",
+        "numeric": "400",
+        "iso_code": "ISO 3166-2:JO",
+        "independent": true,
+        "chinese_name": "约旦"
+    },
+    {
+        "name": "Kazakhstan",
+        "alpha2": "KZ",
+        "alpha3": "KAZ",
+        "numeric": "398",
+        "iso_code": "ISO 3166-2:KZ",
+        "independent": true,
+        "chinese_name": "哈萨克斯坦"
+    },
+    {
+        "name": "Kenya",
+        "alpha2": "KE",
+        "alpha3": "KEN",
+        "numeric": "404",
+        "iso_code": "ISO 3166-2:KE",
+        "independent": true,
+        "chinese_name": "肯尼亚"
+    },
+    {
+        "name": "Kiribati",
+        "alpha2": "KI",
+        "alpha3": "KIR",
+        "numeric": "296",
+        "iso_code": "ISO 3166-2:KI",
+        "independent": true,
+        "chinese_name": "基里巴斯"
+    },
+    {
+        "name": "Korea, Democratic People's Republic of",
+        "alpha2": "KP",
+        "alpha3": "PRK",
+        "numeric": "408",
+        "iso_code": "ISO 3166-2:KP",
+        "independent": true,
+        "chinese_name": "朝鲜"
+    },
+    {
+        "name": "Korea, Republic of",
+        "alpha2": "KR",
+        "alpha3": "KOR",
+        "numeric": "410",
+        "iso_code": "ISO 3166-2:KR",
+        "independent": true,
+        "chinese_name": "韩国"
+    },
+    {
+        "name": "Kuwait",
+        "alpha2": "KW",
+        "alpha3": "KWT",
+        "numeric": "414",
+        "iso_code": "ISO 3166-2:KW",
+        "independent": true,
+        "chinese_name": "科威特"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "alpha2": "KG",
+        "alpha3": "KGZ",
+        "numeric": "417",
+        "iso_code": "ISO 3166-2:KG",
+        "independent": true,
+        "chinese_name": "吉尔吉斯斯坦"
+    },
+    {
+        "name": "Lao People's Democratic Republic",
+        "alpha2": "LA",
+        "alpha3": "LAO",
+        "numeric": "418",
+        "iso_code": "ISO 3166-2:LA",
+        "independent": true,
+        "chinese_name": "老挝"
+    },
+    {
+        "name": "Latvia",
+        "alpha2": "LV",
+        "alpha3": "LVA",
+        "numeric": "428",
+        "iso_code": "ISO 3166-2:LV",
+        "independent": true,
+        "chinese_name": "拉脱维亚"
+    },
+    {
+        "name": "Lebanon",
+        "alpha2": "LB",
+        "alpha3": "LBN",
+        "numeric": "422",
+        "iso_code": "ISO 3166-2:LB",
+        "independent": true,
+        "chinese_name": "黎巴嫩"
+    },
+    {
+        "name": "Lesotho",
+        "alpha2": "LS",
+        "alpha3": "LSO",
+        "numeric": "426",
+        "iso_code": "ISO 3166-2:LS",
+        "independent": true,
+        "chinese_name": "莱索托"
+    },
+    {
+        "name": "Liberia",
+        "alpha2": "LR",
+        "alpha3": "LBR",
+        "numeric": "430",
+        "iso_code": "ISO 3166-2:LR",
+        "independent": true,
+        "chinese_name": "利比里亚"
+    },
+    {
+        "name": "Libya",
+        "alpha2": "LY",
+        "alpha3": "LBY",
+        "numeric": "434",
+        "iso_code": "ISO 3166-2:LY",
+        "independent": true,
+        "chinese_name": "利比亚"
+    },
+    {
+        "name": "Liechtenstein",
+        "alpha2": "LI",
+        "alpha3": "LIE",
+        "numeric": "438",
+        "iso_code": "ISO 3166-2:LI",
+        "independent": true,
+        "chinese_name": "列支敦士登"
+    },
+    {
+        "name": "Lithuania",
+        "alpha2": "LT",
+        "alpha3": "LTU",
+        "numeric": "440",
+        "iso_code": "ISO 3166-2:LT",
+        "independent": true,
+        "chinese_name": "立陶宛"
+    },
+    {
+        "name": "Luxembourg",
+        "alpha2": "LU",
+        "alpha3": "LUX",
+        "numeric": "442",
+        "iso_code": "ISO 3166-2:LU",
+        "independent": true,
+        "chinese_name": "卢森堡"
+    },
+    {
+        "name": "Macao",
+        "alpha2": "MO",
+        "alpha3": "MAC",
+        "numeric": "446",
+        "iso_code": "ISO 3166-2:MO",
+        "independent": false,
+        "chinese_name": "澳门"
+    },
+    {
+        "name": "Madagascar",
+        "alpha2": "MG",
+        "alpha3": "MDG",
+        "numeric": "450",
+        "iso_code": "ISO 3166-2:MG",
+        "independent": true,
+        "chinese_name": "马达加斯加"
+    },
+    {
+        "name": "Malawi",
+        "alpha2": "MW",
+        "alpha3": "MWI",
+        "numeric": "454",
+        "iso_code": "ISO 3166-2:MW",
+        "independent": true,
+        "chinese_name": "马拉维"
+    },
+    {
+        "name": "Malaysia",
+        "alpha2": "MY",
+        "alpha3": "MYS",
+        "numeric": "458",
+        "iso_code": "ISO 3166-2:MY",
+        "independent": true,
+        "chinese_name": "马来西亚"
+    },
+    {
+        "name": "Maldives",
+        "alpha2": "MV",
+        "alpha3": "MDV",
+        "numeric": "462",
+        "iso_code": "ISO 3166-2:MV",
+        "independent": true,
+        "chinese_name": "马尔代夫"
+    },
+    {
+        "name": "Mali",
+        "alpha2": "ML",
+        "alpha3": "MLI",
+        "numeric": "466",
+        "iso_code": "ISO 3166-2:ML",
+        "independent": true,
+        "chinese_name": "马里"
+    },
+    {
+        "name": "Malta",
+        "alpha2": "MT",
+        "alpha3": "MLT",
+        "numeric": "470",
+        "iso_code": "ISO 3166-2:MT",
+        "independent": true,
+        "chinese_name": "马耳他"
+    },
+    {
+        "name": "Marshall Islands",
+        "alpha2": "MH",
+        "alpha3": "MHL",
+        "numeric": "584",
+        "iso_code": "ISO 3166-2:MH",
+        "independent": true,
+        "chinese_name": "马绍尔群岛"
+    },
+    {
+        "name": "Martinique",
+        "alpha2": "MQ",
+        "alpha3": "MTQ",
+        "numeric": "474",
+        "iso_code": "ISO 3166-2:MQ",
+        "independent": false,
+        "chinese_name": "马提尼克"
+    },
+    {
+        "name": "Mauritania",
+        "alpha2": "MR",
+        "alpha3": "MRT",
+        "numeric": "478",
+        "iso_code": "ISO 3166-2:MR",
+        "independent": true,
+        "chinese_name": "毛里塔尼亚"
+    },
+    {
+        "name": "Mauritius",
+        "alpha2": "MU",
+        "alpha3": "MUS",
+        "numeric": "480",
+        "iso_code": "ISO 3166-2:MU",
+        "independent": true,
+        "chinese_name": "毛里求斯"
+    },
+    {
+        "name": "Mayotte",
+        "alpha2": "YT",
+        "alpha3": "MYT",
+        "numeric": "175",
+        "iso_code": "ISO 3166-2:YT",
+        "independent": false,
+        "chinese_name": "马约特"
+    },
+    {
+        "name": "Mexico",
+        "alpha2": "MX",
+        "alpha3": "MEX",
+        "numeric": "484",
+        "iso_code": "ISO 3166-2:MX",
+        "independent": true,
+        "chinese_name": "墨西哥"
+    },
+    {
+        "name": "Micronesia, Federated States of",
+        "alpha2": "FM",
+        "alpha3": "FSM",
+        "numeric": "583",
+        "iso_code": "ISO 3166-2:FM",
+        "independent": true,
+        "chinese_name": "密克罗尼西亚联邦"
+    },
+    {
+        "name": "Moldova, Republic of",
+        "alpha2": "MD",
+        "alpha3": "MDA",
+        "numeric": "498",
+        "iso_code": "ISO 3166-2:MD",
+        "independent": true,
+        "chinese_name": "摩尔多瓦"
+    },
+    {
+        "name": "Monaco",
+        "alpha2": "MC",
+        "alpha3": "MCO",
+        "numeric": "492",
+        "iso_code": "ISO 3166-2:MC",
+        "independent": true,
+        "chinese_name": "摩纳哥"
+    },
+    {
+        "name": "Mongolia",
+        "alpha2": "MN",
+        "alpha3": "MNG",
+        "numeric": "496",
+        "iso_code": "ISO 3166-2:MN",
+        "independent": true,
+        "chinese_name": "蒙古"
+    },
+    {
+        "name": "Montenegro",
+        "alpha2": "ME",
+        "alpha3": "MNE",
+        "numeric": "499",
+        "iso_code": "ISO 3166-2:ME",
+        "independent": true,
+        "chinese_name": "黑山"
+    },
+    {
+        "name": "Montserrat",
+        "alpha2": "MS",
+        "alpha3": "MSR",
+        "numeric": "500",
+        "iso_code": "ISO 3166-2:MS",
+        "independent": false,
+        "chinese_name": "蒙特塞拉特"
+    },
+    {
+        "name": "Morocco",
+        "alpha2": "MA",
+        "alpha3": "MAR",
+        "numeric": "504",
+        "iso_code": "ISO 3166-2:MA",
+        "independent": true,
+        "chinese_name": "摩洛哥"
+    },
+    {
+        "name": "Mozambique",
+        "alpha2": "MZ",
+        "alpha3": "MOZ",
+        "numeric": "508",
+        "iso_code": "ISO 3166-2:MZ",
+        "independent": true,
+        "chinese_name": "莫桑比克"
+    },
+    {
+        "name": "Myanmar",
+        "alpha2": "MM",
+        "alpha3": "MMR",
+        "numeric": "104",
+        "iso_code": "ISO 3166-2:MM",
+        "independent": true,
+        "chinese_name": "缅甸"
+    },
+    {
+        "name": "Namibia",
+        "alpha2": "NA",
+        "alpha3": "NAM",
+        "numeric": "516",
+        "iso_code": "ISO 3166-2:NA",
+        "independent": true,
+        "chinese_name": "纳米比亚"
+    },
+    {
+        "name": "Nauru",
+        "alpha2": "NR",
+        "alpha3": "NRU",
+        "numeric": "520",
+        "iso_code": "ISO 3166-2:NR",
+        "independent": true,
+        "chinese_name": "瑙鲁"
+    },
+    {
+        "name": "Nepal",
+        "alpha2": "NP",
+        "alpha3": "NPL",
+        "numeric": "524",
+        "iso_code": "ISO 3166-2:NP",
+        "independent": true,
+        "chinese_name": "尼泊尔"
+    },
+    {
+        "name": "Netherlands, Kingdom of the",
+        "alpha2": "NL",
+        "alpha3": "NLD",
+        "numeric": "528",
+        "iso_code": "ISO 3166-2:NL",
+        "independent": true,
+        "chinese_name": "荷兰"
+    },
+    {
+        "name": "New Caledonia",
+        "alpha2": "NC",
+        "alpha3": "NCL",
+        "numeric": "540",
+        "iso_code": "ISO 3166-2:NC",
+        "independent": false,
+        "chinese_name": "新喀里多尼亚"
+    },
+    {
+        "name": "New Zealand",
+        "alpha2": "NZ",
+        "alpha3": "NZL",
+        "numeric": "554",
+        "iso_code": "ISO 3166-2:NZ",
+        "independent": true,
+        "chinese_name": "新西兰"
+    },
+    {
+        "name": "Nicaragua",
+        "alpha2": "NI",
+        "alpha3": "NIC",
+        "numeric": "558",
+        "iso_code": "ISO 3166-2:NI",
+        "independent": true,
+        "chinese_name": "尼加拉瓜"
+    },
+    {
+        "name": "Niger",
+        "alpha2": "NE",
+        "alpha3": "NER",
+        "numeric": "562",
+        "iso_code": "ISO 3166-2:NE",
+        "independent": true,
+        "chinese_name": "尼日尔"
+    },
+    {
+        "name": "Nigeria",
+        "alpha2": "NG",
+        "alpha3": "NGA",
+        "numeric": "566",
+        "iso_code": "ISO 3166-2:NG",
+        "independent": true,
+        "chinese_name": "尼日利亚"
+    },
+    {
+        "name": "Niue",
+        "alpha2": "NU",
+        "alpha3": "NIU",
+        "numeric": "570",
+        "iso_code": "ISO 3166-2:NU",
+        "independent": false,
+        "chinese_name": "纽埃"
+    },
+    {
+        "name": "Norfolk Island",
+        "alpha2": "NF",
+        "alpha3": "NFK",
+        "numeric": "574",
+        "iso_code": "ISO 3166-2:NF",
+        "independent": false,
+        "chinese_name": "诺福克岛"
+    },
+    {
+        "name": "North Macedonia",
+        "alpha2": "MK",
+        "alpha3": "MKD",
+        "numeric": "807",
+        "iso_code": "ISO 3166-2:MK",
+        "independent": true,
+        "chinese_name": "北马其顿"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "alpha2": "MP",
+        "alpha3": "MNP",
+        "numeric": "580",
+        "iso_code": "ISO 3166-2:MP",
+        "independent": false,
+        "chinese_name": "北马里亚纳群岛"
+    },
+    {
+        "name": "Norway",
+        "alpha2": "NO",
+        "alpha3": "NOR",
+        "numeric": "578",
+        "iso_code": "ISO 3166-2:NO",
+        "independent": true,
+        "chinese_name": "挪威"
+    },
+    {
+        "name": "Oman",
+        "alpha2": "OM",
+        "alpha3": "OMN",
+        "numeric": "512",
+        "iso_code": "ISO 3166-2:OM",
+        "independent": true,
+        "chinese_name": "阿曼"
+    },    
+    {
+        "name": "Pakistan",
+        "alpha2": "PK",
+        "alpha3": "PAK",
+        "numeric": "586",
+        "iso_code": "ISO 3166-2:PK",
+        "independent": true,
+        "chinese_name": "巴基斯坦"
+    },
+    {
+        "name": "Palau",
+        "alpha2": "PW",
+        "alpha3": "PLW",
+        "numeric": "585",
+        "iso_code": "ISO 3166-2:PW",
+        "independent": true,
+        "chinese_name": "帕劳"
+    },
+    {
+        "name": "Palestine, State of",
+        "alpha2": "PS",
+        "alpha3": "PSE",
+        "numeric": "275",
+        "iso_code": "ISO 3166-2:PS",
+        "independent": false,
+        "chinese_name": "巴勒斯坦"
+    },
+    {
+        "name": "Panama",
+        "alpha2": "PA",
+        "alpha3": "PAN",
+        "numeric": "591",
+        "iso_code": "ISO 3166-2:PA",
+        "independent": true,
+        "chinese_name": "巴拿马"
+    },
+    {
+        "name": "Papua New Guinea",
+        "alpha2": "PG",
+        "alpha3": "PNG",
+        "numeric": "598",
+        "iso_code": "ISO 3166-2:PG",
+        "independent": true,
+        "chinese_name": "巴布亚新几内亚"
+    },
+    {
+        "name": "Paraguay",
+        "alpha2": "PY",
+        "alpha3": "PRY",
+        "numeric": "600",
+        "iso_code": "ISO 3166-2:PY",
+        "independent": true,
+        "chinese_name": "巴拉圭"
+    },
+    {
+        "name": "Peru",
+        "alpha2": "PE",
+        "alpha3": "PER",
+        "numeric": "604",
+        "iso_code": "ISO 3166-2:PE",
+        "independent": true,
+        "chinese_name": "秘鲁"
+    },
+    {
+        "name": "Philippines",
+        "alpha2": "PH",
+        "alpha3": "PHL",
+        "numeric": "608",
+        "iso_code": "ISO 3166-2:PH",
+        "independent": true,
+        "chinese_name": "菲律宾"
+    },
+    {
+        "name": "Pitcairn",
+        "alpha2": "PN",
+        "alpha3": "PCN",
+        "numeric": "612",
+        "iso_code": "ISO 3166-2:PN",
+        "independent": false,
+        "chinese_name": "皮特凯恩"
+    },
+    {
+        "name": "Poland",
+        "alpha2": "PL",
+        "alpha3": "POL",
+        "numeric": "616",
+        "iso_code": "ISO 3166-2:PL",
+        "independent": true,
+        "chinese_name": "波兰"
+    },
+    {
+        "name": "Portugal",
+        "alpha2": "PT",
+        "alpha3": "PRT",
+        "numeric": "620",
+        "iso_code": "ISO 3166-2:PT",
+        "independent": true,
+        "chinese_name": "葡萄牙"
+    },
+    {
+        "name": "Puerto Rico",
+        "alpha2": "PR",
+        "alpha3": "PRI",
+        "numeric": "630",
+        "iso_code": "ISO 3166-2:PR",
+        "independent": false,
+        "chinese_name": "波多黎各"
+    },
+    {
+        "name": "Qatar",
+        "alpha2": "QA",
+        "alpha3": "QAT",
+        "numeric": "634",
+        "iso_code": "ISO 3166-2:QA",
+        "independent": true,
+        "chinese_name": "卡塔尔"
+    },
+    {
+        "name": "Réunion",
+        "alpha2": "RE",
+        "alpha3": "REU",
+        "numeric": "638",
+        "iso_code": "ISO 3166-2:RE",
+        "independent": false,
+        "chinese_name": "留尼旺"
+    },
+    {
+        "name": "Romania",
+        "alpha2": "RO",
+        "alpha3": "ROU",
+        "numeric": "642",
+        "iso_code": "ISO 3166-2:RO",
+        "independent": true,
+        "chinese_name": "罗马尼亚"
+    },
+    {
+        "name": "Russian Federation",
+        "alpha2": "RU",
+        "alpha3": "RUS",
+        "numeric": "643",
+        "iso_code": "ISO 3166-2:RU",
+        "independent": true,
+        "chinese_name": "俄罗斯联邦"
+    },
+    {
+        "name": "Rwanda",
+        "alpha2": "RW",
+        "alpha3": "RWA",
+        "numeric": "646",
+        "iso_code": "ISO 3166-2:RW",
+        "independent": true,
+        "chinese_name": "卢旺达"
+    },
+    {
+        "name": "Saint Barthélemy",
+        "alpha2": "BL",
+        "alpha3": "BLM",
+        "numeric": "652",
+        "iso_code": "ISO 3166-2:BL",
+        "independent": false,
+        "chinese_name": "圣巴特尔米"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "alpha2": "SH",
+        "alpha3": "SHN",
+        "numeric": "654",
+        "iso_code": "ISO 3166-2:SH",
+        "independent": false,
+        "chinese_name": "圣赫勒拿岛"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "alpha2": "KN",
+        "alpha3": "KNA",
+        "numeric": "659",
+        "iso_code": "ISO 3166-2:KN",
+        "independent": true,
+        "chinese_name": "圣基茨和尼维斯"
+    },
+    {
+        "name": "Saint Lucia",
+        "alpha2": "LC",
+        "alpha3": "LCA",
+        "numeric": "662",
+        "iso_code": "ISO 3166-2:LC",
+        "independent": true,
+        "chinese_name": "圣卢西亚"
+    },
+    {
+        "name": "Saint Martin (French part)",
+        "alpha2": "MF",
+        "alpha3": "MAF",
+        "numeric": "663",
+        "iso_code": "ISO 3166-2:MF",
+        "independent": false,
+        "chinese_name": "法属圣马丁"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "alpha2": "PM",
+        "alpha3": "SPM",
+        "numeric": "666",
+        "iso_code": "ISO 3166-2:PM",
+        "independent": false,
+        "chinese_name": "圣皮埃尔和密克隆"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "alpha2": "VC",
+        "alpha3": "VCT",
+        "numeric": "670",
+        "iso_code": "ISO 3166-2:VC",
+        "independent": true,
+        "chinese_name": "圣文森特和格林纳丁斯"
+    },
+    {
+        "name": "Samoa",
+        "alpha2": "WS",
+        "alpha3": "WSM",
+        "numeric": "882",
+        "iso_code": "ISO 3166-2:WS",
+        "independent": true,
+        "chinese_name": "萨摩亚"
+    },
+    {
+        "name": "San Marino",
+        "alpha2": "SM",
+        "alpha3": "SMR",
+        "numeric": "674",
+        "iso_code": "ISO 3166-2:SM",
+        "independent": true,
+        "chinese_name": "圣马力诺"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "alpha2": "ST",
+        "alpha3": "STP",
+        "numeric": "678",
+        "iso_code": "ISO 3166-2:ST",
+        "independent": true,
+        "chinese_name": "圣多美和普林西比"
+    },
+    {
+        "name": "Saudi Arabia",
+        "alpha2": "SA",
+        "alpha3": "SAU",
+        "numeric": "682",
+        "iso_code": "ISO 3166-2:SA",
+        "independent": true,
+        "chinese_name": "沙特阿拉伯"
+    },
+    {
+        "name": "Senegal",
+        "alpha2": "SN",
+        "alpha3": "SEN",
+        "numeric": "686",
+        "iso_code": "ISO 3166-2:SN",
+        "independent": true,
+        "chinese_name": "塞内加尔"
+    },
+    {
+        "name": "Serbia",
+        "alpha2": "RS",
+        "alpha3": "SRB",
+        "numeric": "688",
+        "iso_code": "ISO 3166-2:RS",
+        "independent": true,
+        "chinese_name": "塞尔维亚"
+    },
+    {
+        "name": "Seychelles",
+        "alpha2": "SC",
+        "alpha3": "SYC",
+        "numeric": "690",
+        "iso_code": "ISO 3166-2:SC",
+        "independent": true,
+        "chinese_name": "塞舌尔"
+    },
+    {
+        "name": "Sierra Leone",
+        "alpha2": "SL",
+        "alpha3": "SLE",
+        "numeric": "694",
+        "iso_code": "ISO 3166-2:SL",
+        "independent": true,
+        "chinese_name": "塞拉利昂"
+    },
+    {
+        "name": "Singapore",
+        "alpha2": "SG",
+        "alpha3": "SGP",
+        "numeric": "702",
+        "iso_code": "ISO 3166-2:SG",
+        "independent": true,
+        "chinese_name": "新加坡"
+    },
+    {
+        "name": "Sint Maarten (Dutch part)",
+        "alpha2": "SX",
+        "alpha3": "SXM",
+        "numeric": "534",
+        "iso_code": "ISO 3166-2:SX",
+        "independent": false,
+        "chinese_name": "荷属圣马丁"
+    },
+    {
+        "name": "Slovakia",
+        "alpha2": "SK",
+        "alpha3": "SVK",
+        "numeric": "703",
+        "iso_code": "ISO 3166-2:SK",
+        "independent": true,
+        "chinese_name": "斯洛伐克"
+    },
+    {
+        "name": "Slovenia",
+        "alpha2": "SI",
+        "alpha3": "SVN",
+        "numeric": "705",
+        "iso_code": "ISO 3166-2:SI",
+        "independent": true,
+        "chinese_name": "斯洛文尼亚"
+    },
+    {
+        "name": "Solomon Islands",
+        "alpha2": "SB",
+        "alpha3": "SLB",
+        "numeric": "090",
+        "iso_code": "ISO 3166-2:SB",
+        "independent": true,
+        "chinese_name": "所罗门群岛"
+    },
+    {
+        "name": "Somalia",
+        "alpha2": "SO",
+        "alpha3": "SOM",
+        "numeric": "706",
+        "iso_code": "ISO 3166-2:SO",
+        "independent": true,
+        "chinese_name": "索马里"
+    },    
+    {
+        "name": "South Africa",
+        "alpha2": "ZA",
+        "alpha3": "ZAF",
+        "numeric": "710",
+        "iso_code": "ISO 3166-2:ZA",
+        "independent": true,
+        "chinese_name": "南非"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "alpha2": "GS",
+        "alpha3": "SGS",
+        "numeric": "239",
+        "iso_code": "ISO 3166-2:GS",
+        "independent": false,
+        "chinese_name": "南乔治亚和南桑威奇群岛"
+    },
+    {
+        "name": "South Sudan",
+        "alpha2": "SS",
+        "alpha3": "SSD",
+        "numeric": "728",
+        "iso_code": "ISO 3166-2:SS",
+        "independent": true,
+        "chinese_name": "南苏丹"
+    },
+    {
+        "name": "Spain",
+        "alpha2": "ES",
+        "alpha3": "ESP",
+        "numeric": "724",
+        "iso_code": "ISO 3166-2:ES",
+        "independent": true,
+        "chinese_name": "西班牙"
+    },
+    {
+        "name": "Sri Lanka",
+        "alpha2": "LK",
+        "alpha3": "LKA",
+        "numeric": "144",
+        "iso_code": "ISO 3166-2:LK",
+        "independent": true,
+        "chinese_name": "斯里兰卡"
+    },
+    {
+        "name": "Sudan",
+        "alpha2": "SD",
+        "alpha3": "SDN",
+        "numeric": "729",
+        "iso_code": "ISO 3166-2:SD",
+        "independent": true,
+        "chinese_name": "苏丹"
+    },
+    {
+        "name": "Suriname",
+        "alpha2": "SR",
+        "alpha3": "SUR",
+        "numeric": "740",
+        "iso_code": "ISO 3166-2:SR",
+        "independent": true,
+        "chinese_name": "苏里南"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "alpha2": "SJ",
+        "alpha3": "SJM",
+        "numeric": "744",
+        "iso_code": "ISO 3166-2:SJ",
+        "independent": false,
+        "chinese_name": "斯瓦尔巴特群岛和扬马延岛"
+    },
+    {
+        "name": "Sweden",
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "numeric": "752",
+        "iso_code": "ISO 3166-2:SE",
+        "independent": true,
+        "chinese_name": "瑞典"
+    },
+    {
+        "name": "Switzerland",
+        "alpha2": "CH",
+        "alpha3": "CHE",
+        "numeric": "756",
+        "iso_code": "ISO 3166-2:CH",
+        "independent": true,
+        "chinese_name": "瑞士"
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "alpha2": "SY",
+        "alpha3": "SYR",
+        "numeric": "760",
+        "iso_code": "ISO 3166-2:SY",
+        "independent": true,
+        "chinese_name": "叙利亚阿拉伯共和国"
+    },
+    {
+        "name": "Taiwan, Province of China",
+        "alpha2": "TW",
+        "alpha3": "TWN",
+        "numeric": "158",
+        "iso_code": "ISO 3166-2:TW",
+        "independent": false,
+        "chinese_name": "台湾"
+    },
+    {
+        "name": "Tajikistan",
+        "alpha2": "TJ",
+        "alpha3": "TJK",
+        "numeric": "762",
+        "iso_code": "ISO 3166-2:TJ",
+        "independent": true,
+        "chinese_name": "塔吉克斯坦"
+    },
+    {
+        "name": "Tanzania, United Republic of",
+        "alpha2": "TZ",
+        "alpha3": "TZA",
+        "numeric": "834",
+        "iso_code": "ISO 3166-2:TZ",
+        "independent": true,
+        "chinese_name": "坦桑尼亚"
+    },
+    {
+        "name": "Thailand",
+        "alpha2": "TH",
+        "alpha3": "THA",
+        "numeric": "764",
+        "iso_code": "ISO 3166-2:TH",
+        "independent": true,
+        "chinese_name": "泰国"
+    },
+    {
+        "name": "Timor-Leste",
+        "alpha2": "TL",
+        "alpha3": "TLS",
+        "numeric": "626",
+        "iso_code": "ISO 3166-2:TL",
+        "independent": true,
+        "chinese_name": "东帝汶"
+    },
+    {
+        "name": "Togo",
+        "alpha2": "TG",
+        "alpha3": "TGO",
+        "numeric": "768",
+        "iso_code": "ISO 3166-2:TG",
+        "independent": true,
+        "chinese_name": "多哥"
+    },
+    {
+        "name": "Tokelau",
+        "alpha2": "TK",
+        "alpha3": "TKL",
+        "numeric": "772",
+        "iso_code": "ISO 3166-2:TK",
+        "independent": false,
+        "chinese_name": "托克劳"
+    },
+    {
+        "name": "Tonga",
+        "alpha2": "TO",
+        "alpha3": "TON",
+        "numeric": "776",
+        "iso_code": "ISO 3166-2:TO",
+        "independent": true,
+        "chinese_name": "汤加"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "alpha2": "TT",
+        "alpha3": "TTO",
+        "numeric": "780",
+        "iso_code": "ISO 3166-2:TT",
+        "independent": true,
+        "chinese_name": "特立尼达和多巴哥"
+    },    
+    {
+        "name": "Tunisia",
+        "alpha2": "TN",
+        "alpha3": "TUN",
+        "numeric": "788",
+        "iso_code": "ISO 3166-2:TN",
+        "independent": true,
+        "chinese_name": "突尼斯"
+    },
+    {
+        "name": "Türkiye",
+        "alpha2": "TR",
+        "alpha3": "TUR",
+        "numeric": "792",
+        "iso_code": "ISO 3166-2:TR",
+        "independent": true,
+        "chinese_name": "土耳其"
+    },
+    {
+        "name": "Turkmenistan",
+        "alpha2": "TM",
+        "alpha3": "TKM",
+        "numeric": "795",
+        "iso_code": "ISO 3166-2:TM",
+        "independent": true,
+        "chinese_name": "土库曼斯坦"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "alpha2": "TC",
+        "alpha3": "TCA",
+        "numeric": "796",
+        "iso_code": "ISO 3166-2:TC",
+        "independent": false,
+        "chinese_name": "特克斯和凯科斯群岛"
+    },
+    {
+        "name": "Tuvalu",
+        "alpha2": "TV",
+        "alpha3": "TUV",
+        "numeric": "798",
+        "iso_code": "ISO 3166-2:TV",
+        "independent": true,
+        "chinese_name": "图瓦卢"
+    },
+    {
+        "name": "Uganda",
+        "alpha2": "UG",
+        "alpha3": "UGA",
+        "numeric": "800",
+        "iso_code": "ISO 3166-2:UG",
+        "independent": true,
+        "chinese_name": "乌干达"
+    },
+    {
+        "name": "Ukraine",
+        "alpha2": "UA",
+        "alpha3": "UKR",
+        "numeric": "804",
+        "iso_code": "ISO 3166-2:UA",
+        "independent": true,
+        "chinese_name": "乌克兰"
+    },
+    {
+        "name": "United Arab Emirates",
+        "alpha2": "AE",
+        "alpha3": "ARE",
+        "numeric": "784",
+        "iso_code": "ISO 3166-2:AE",
+        "independent": true,
+        "chinese_name": "阿联酋"
+    },
+    {
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "alpha2": "GB",
+        "alpha3": "GBR",
+        "numeric": "826",
+        "iso_code": "ISO 3166-2:GB",
+        "independent": true,
+        "chinese_name": "英国"
+    },
+    {
+        "name": "United States of America",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "numeric": "840",
+        "iso_code": "ISO 3166-2:US",
+        "independent": true,
+        "chinese_name": "美国"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "alpha2": "UM",
+        "alpha3": "UMI",
+        "numeric": "581",
+        "iso_code": "ISO 3166-2:UM",
+        "independent": false,
+        "chinese_name": "美国本土外小岛屿"
+    },
+    {
+        "name": "Uruguay",
+        "alpha2": "UY",
+        "alpha3": "URY",
+        "numeric": "858",
+        "iso_code": "ISO 3166-2:UY",
+        "independent": true,
+        "chinese_name": "乌拉圭"
+    },
+    {
+        "name": "Uzbekistan",
+        "alpha2": "UZ",
+        "alpha3": "UZB",
+        "numeric": "860",
+        "iso_code": "ISO 3166-2:UZ",
+        "independent": true,
+        "chinese_name": "乌兹别克斯坦"
+    },
+    {
+        "name": "Vanuatu",
+        "alpha2": "VU",
+        "alpha3": "VUT",
+        "numeric": "548",
+        "iso_code": "ISO 3166-2:VU",
+        "independent": true,
+        "chinese_name": "瓦努阿图"
+    },
+    {
+        "name": "Venezuela, Bolivarian Republic of",
+        "alpha2": "VE",
+        "alpha3": "VEN",
+        "numeric": "862",
+        "iso_code": "ISO 3166-2:VE",
+        "independent": true,
+        "chinese_name": "委内瑞拉"
+    },
+    {
+        "name": "Viet Nam",
+        "alpha2": "VN",
+        "alpha3": "VNM",
+        "numeric": "704",
+        "iso_code": "ISO 3166-2:VN",
+        "independent": true,
+        "chinese_name": "越南"
+    },
+    {
+        "name": "Virgin Islands (British)",
+        "alpha2": "VG",
+        "alpha3": "VGB",
+        "numeric": "092",
+        "iso_code": "ISO 3166-2:VG",
+        "independent": false,
+        "chinese_name": "英属维尔京群岛"
+    },
+    {
+        "name": "Virgin Islands (U.S.)",
+        "alpha2": "VI",
+        "alpha3": "VIR",
+        "numeric": "850",
+        "iso_code": "ISO 3166-2:VI",
+        "independent": false,
+        "chinese_name": "美属维尔京群岛"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "alpha2": "WF",
+        "alpha3": "WLF",
+        "numeric": "876",
+        "iso_code": "ISO 3166-2:WF",
+        "independent": false,
+        "chinese_name": "瓦利斯和富图纳"
+    },
+    {
+        "name": "Western Sahara",
+        "alpha2": "EH",
+        "alpha3": "ESH",
+        "numeric": "732",
+        "iso_code": "ISO 3166-2:EH",
+        "independent": false,
+        "chinese_name": "西撒哈拉"
+    },
+    {
+        "name": "Yemen",
+        "alpha2": "YE",
+        "alpha3": "YEM",
+        "numeric": "887",
+        "iso_code": "ISO 3166-2:YE",
+        "independent": true,
+        "chinese_name": "也门"
+    },
+    {
+        "name": "Zambia",
+        "alpha2": "ZM",
+        "alpha3": "ZMB",
+        "numeric": "894",
+        "iso_code": "ISO 3166-2:ZM",
+        "independent": true,
+        "chinese_name": "赞比亚"
+    },
+    {
+        "name": "Zimbabwe",
+        "alpha2": "ZW",
+        "alpha3": "ZWE",
+        "numeric": "716",
+        "iso_code": "ISO 3166-2:ZW",
+        "independent": true,
+        "chinese_name": "津巴布韦"
+    }
+]
